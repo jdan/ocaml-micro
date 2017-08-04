@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "micro": "^8.0.1"
+  },
+  "devDependencies": {
+    "bs-platform": "^1.8.2",
+    "nodemon": "^1.11.0",
+    "now": "^7.3.0"
+  },
+  "scripts": {
+    "build": "bsb",
+    "watch": "bsb -w",
+    "start": "node lib/js/src/index.js",
+    "dev": "nodemon lib/js/src/index.js",
+    "deploy": "now"
+  }
+}
