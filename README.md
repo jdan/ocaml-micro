@@ -1,6 +1,8 @@
 ## ocaml-micro
 
-Lightning quick experiment to run [micro](https://github.com/zeit/micro) from OCaml using [BuckleScript](https://github.com/BuckleScript/bucklescript)
+Lightning quick experiment to run [micro](https://github.com/zeit/micro) from OCaml using [BuckleScript](https://github.com/BuckleScript/bucklescript).
+
+Read the blog post: https://medium.com/dailyjs/how-to-build-disruptive-ocaml-microservices-with-bucklescript-8c2f774f67cd
 
 ### Running
 
